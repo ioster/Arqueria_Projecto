@@ -294,7 +294,7 @@ grid-template-columns: 33.33% auto 33.33%;
     border-radius: 8px;
 }
 
-/*
+
 @media all and (Max-Width: 1425px){
     .Locations iframe{
         max-width: 400px;
@@ -338,5 +338,5 @@ grid-template-columns: 33.33% auto 33.33%;
     .grid-container-galeria{
         padding: 5px;
     }
-}*/
+}
 
