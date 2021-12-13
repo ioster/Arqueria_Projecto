@@ -294,6 +294,25 @@ grid-template-columns: 33.33% auto 33.33%;
     border-radius: 8px;
 }
 
+.Redes:hover{
+    animation: bounce 1.2s linear;
+}
+
+@keyframes bounce{
+    20%,50%,80%,to{
+        transform: translateY(0);
+    }
+    40%{
+        transform:translateY(-30px);
+    }
+    70%{
+        transform:translateY(-15px);
+    }
+    90%{
+        transform:translateY(-4px);
+    }
+}
+
 
 @media all and (Max-Width: 1425px){
     .Locations iframe{
