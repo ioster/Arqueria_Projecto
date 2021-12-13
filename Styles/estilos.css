@@ -234,8 +234,7 @@ grid-template-columns: 33.33% auto 33.33%;
   }
   
   .grid-item:hover {
-    filter: opacity(0.9);
-    transform: scale(1.04);
+    transform: scale(1.20);
   }
 
   .Main_Contacto{
@@ -312,7 +311,6 @@ grid-template-columns: 33.33% auto 33.33%;
         transform:translateY(-4px);
     }
 }
-
 
 @media all and (Max-Width: 1425px){
     .Locations iframe{
